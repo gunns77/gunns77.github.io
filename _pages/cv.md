@@ -11,54 +11,85 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Philosophy (Ph.D) - University of Tennessee Knoxville, 2024
+  * Major: Agronomy and Soil Science
+* Master of Science (M.S) - Texas A&M University Kingsville , 2020
+  * Major: Plant and Soil Science
+* Bachelor of Science (B.S) - P.J.T.State Agricultural University (PJTSAU) Hyderabad, 2018
+  * Major: Agriculture
 
-Work experience
+Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 August – current: Graduate Teaching Assistant  
+  * University of Tennessee, Knoxville  
+  * Course: ESS 334: Soil Nutrient Management and Fertilizers  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 January – 2024 July: Graduate Research Assistant  
+  * University of Tennessee, Knoxville  
+  * Supervisor: Dr. Sindhu Jagadamma  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 August – 2022 December: Graduate Teaching Assistant  
+  * University of Tennessee, Knoxville  
+  * Course: BIOL 150: Organismal and Ecological Biology  
+
+* 2020 August – 2022 July: Graduate Research Assistant  
+  * University of Tennessee, Knoxville  
+  * Supervisor: Dr. Sindhu Jagadamma  
+
+* 2019 September – 2020 January: Graduate Teaching Assistant  
+  * Texas A&M University-Kingsville (TAMUK)  
+  * Course: Intro to Plant and Soil Science  
+
+* 2019 April – 2019 August: Sorghum Breeding Intern and Research Aide  
+  * Innovative Seed Solutions, Bishop, TX  
+
+* 2019 January – 2019 May: Graduate Teaching Assistant  
+  * Texas A&M University-Kingsville (TAMUK)  
+  * Course: Ag Mechanics  
+
+* 2018 January – 2018 May: Mushroom Production and Training Coordinator  
+  * PJTSAU Mushroom Unit  
+
+* 2017 June – 2017 December: Agricultural Extension Intern  
+  * District Agricultural Advisory and Transfer of Technology Centre  
   
-Skills
+Awards and Recognition
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **2025 Spring**  
+  • Social Media Editor (2025–2028), *Agriculture and Environmental Letters*  
+    - Managed the journal’s social media presence.  
+    - Promoted newly published research, engaged with authors, and developed multimedia content.  
+
+* **2024 Spring**  
+  • Student Moderator, *SWCS International Annual Conference, 2024*, Myrtle Beach, SC  
+    - Received full conference registration and complimentary stay (cumulative value: $750).  
+
+* **2023 Fall**  
+  • Southern Sustainable Agriculture Research and Education (SSARE) Graduate Student Grant  
+    - "Enhancing sustainability and productivity of organic wheat-soybean double crop systems in the Southeastern USA"  
+    - Grant amount: $16,500.  
+  • Second place in Graduate Student Poster Presentations, *ASA, CSSA, SSSA International Annual Meeting, 2023*, St. Louis, MO  
+    - Award: $250.  
+
+* **2023 Spring**  
+  • Science and Policy Student Representative (2023–2024), *SWCS Science and Policy Committee*  
+    - Engaged with conservation professionals and contributed to policy discussions.  
+  • Student Moderator, *SWCS International Annual Conference, 2024*, Des Moines, IA  
+    - Received full conference registration and complimentary stay (cumulative value: $750).  
+
+* **2022 Fall**  
+  • First place in Graduate Research Poster Competition, *UT Beef and Forage Center, 2022*, Knoxville, TN  
+    - Award: [Amount missing – add if needed].  
+  • Second place in Graduate Poster & Oral Presentation, *ASA, CSSA, SSSA International Annual Meeting, 2022*, Baltimore, MD  
+    - Award: $200.  
+
+* **2022 Spring**  
+  • Student Faculty Research Award, *University of Tennessee*  
+    - "Culturing native and beneficial plant growth promoting species from livestock manure"  
+    - Grant amount: $5,500.  
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
