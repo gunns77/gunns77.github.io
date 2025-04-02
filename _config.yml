@@ -23,10 +23,10 @@ repository               : "gunns77/gunns77.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ravi Teja Neelipally"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Post Doctoral Research Associate"
+  location         : "Knoxville, Tennessee"
   employer         : "University of Tennessee Knoxville"
   uri              : # URL
   email            : "rneelipa@vols.utk.edu" 
